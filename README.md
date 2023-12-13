@@ -52,3 +52,5 @@ Azure Application Gateway - это облачный сервис уровня п
 | Azure Network Watcher | Yandex Monitoring |
 | Azure Application Gateway | Yandex API Gateway |
 # Итоговая таблица
+![Image alt](https://github.com/kirillvolkovich/anal-laba-2/blob/main/itog2.JPG)
+# Вывод
